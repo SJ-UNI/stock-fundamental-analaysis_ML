@@ -1,0 +1,13 @@
+Project Overview
+  
+                        Project Title: Machine Learning–Based Fundamental Analysis System for Stock Market Companies
+Author: Hariharan SJ
+                  Introduction:
+                        This project automates stock fundamental analysis using machine learning to provide Buy,
+                        Hold, or Sell recommendations.
+                  Objectives:
+                            • Analyze financial indicators
+                            • Train ML model
+                            • Predict stock rating
+                  Conclusion:
+                          The system helps investors make data-driven decisions
