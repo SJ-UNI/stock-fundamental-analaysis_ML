@@ -4,7 +4,7 @@ Author: Hariharan SJ
 Internship: Bluestock
 Project Type: Machine Learning | Financial Analysis
 
-**#📌 Project Overview**
+**📌 Project Overview**
 
 This project implements a machine learning–based fundamental analysis system to evaluate stock-market–listed companies using key financial indicators.
 The system predicts an investment recommendation — Buy, Hold, or Sell — to assist investors and analysts in data-driven decision-making.
