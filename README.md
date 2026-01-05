@@ -1,16 +1,15 @@
-#📊 ML-Based Fundamental Analysis System for Stock Market Companies
+**📊ML-Based Fundamental Analysis System for Stock Market Companies**
 
 Author: Hariharan SJ
 Internship: Bluestock
 Project Type: Machine Learning | Financial Analysis
 
-#📌 Project Overview
+**#📌 Project Overview**
 
 This project implements a machine learning–based fundamental analysis system to evaluate stock-market–listed companies using key financial indicators.
 The system predicts an investment recommendation — Buy, Hold, or Sell — to assist investors and analysts in data-driven decision-making.
 
-#🎯 Objectives
-
+**🎯 Objectives**
 Analyze fundamental financial indicators of companies
 
 Automate stock evaluation using machine learning
@@ -19,7 +18,7 @@ Classify stocks into Buy / Hold / Sell categories
 
 Reduce manual analysis effort and human bias
 
-#🛠️ Tech Stack
+**🛠️ Tech Stack**
 
 Programming Language: Python
 
@@ -29,7 +28,7 @@ ML Algorithm: Random Forest Classifier
 
 Tools: VS Code, Jupyter Notebook
 
-#📂 Project Structure
+**📂 Project Structure**
 Stock_Fundamental_Analysis_ML/
 │
 ├── src/
@@ -62,11 +61,11 @@ Stock_Fundamental_Analysis_ML/
 ├── run_instructions.txt
 └── README.md
 
-#📊 Dataset Description
+**📊 Dataset Description**
 
 The dataset contains fundamental financial indicators collected from publicly available financial sources.
 
-#Key Features:
+**Key Features:**
 
 P/E Ratio
 
@@ -80,26 +79,26 @@ Market Capitalization
 
 Revenue Growth
 
-#Target Variable:
+**Target Variable:**
 
 Stock Rating → Buy / Hold / Sell
 
-#⚙️ Installation & Setup
-#1️⃣ Prerequisites
+**⚙️ Installation & Setup**
+**1️⃣ Prerequisites**
 
 Python 3.9 or above
 
 pip package manager
 
-#2️⃣ Install Dependencies
+**2️⃣ Install Dependencies**
 pip install -r requirements.txt
 
-#▶️ How to Run the Project
+**▶️ How to Run the Project**
 python src/data_collection.py
 python src/model_training.py
 python src/prediction.py
 
-#📈 Model Details
+**📈Model Details**
 
 Algorithm Used: Random Forest Classifier
 
@@ -111,7 +110,7 @@ The trained model is serialized using joblib and saved as:
 
 models/trained_model.pkl
 
-#🖥️ Output
+**🖥️ Output**
 
 Model Accuracy: Displayed in terminal
 
@@ -125,7 +124,7 @@ Sell
 
 Screenshots of outputs are included in the screenshots/ folder.
 
-#📘 Documentation
+**📘 Documentation**
 
 Complete documentation is available in the documentation/ folder:
 
@@ -135,7 +134,7 @@ Technical Documentation
 
 Functional Documentation
 
-#🔮 Future Enhancements
+**🔮 Future Enhancements**
 
 Integration with real-time stock APIs
 
@@ -145,11 +144,11 @@ Web or mobile application interface
 
 Support for more ML algorithms
 
-#✅ Conclusion
+**✅ Conclusion**
 
 This project demonstrates the practical application of machine learning in fundamental stock analysis, enabling accurate and efficient investment recommendations.
 
-#📬 Contact
+**📬 Contact**
 
 Author: Hariharan SJ
 Internship Organization: Bluestock
